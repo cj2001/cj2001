@@ -7,7 +7,7 @@ Most of my coding happens in private repositories for either GitHub or La Neige,
 - General machine learning and data science 
 - Graph analytics (I love [Neo4j](https://neo4j.com/)), including ML on graphs
 - Natural language processing
-- Python, Scala, R (I am just learning that one)
+- Python, SQL, Spark, R (I am just learning that one)
 - Various cloud environments, most notably AWS and Azure
 
 In addition to my work at GitHub, I also have the following interests:
