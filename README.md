@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-My name is Clair Sullivan and I am a Machine Learning Engineer at GitHub!  You can find my resume, speakers bio, etc. [here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at GitHub, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
+My name is Clair Sullivan and I am a Machine Learning Engineer at GitHub!  You can find my [resume, speaker bio, etc. here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at GitHub, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
 
 My major professional interests and some areas I have worked on while at GitHub:
 
