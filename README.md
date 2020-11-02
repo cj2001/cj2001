@@ -5,8 +5,9 @@ My name is Clair Sullivan and I am a Machine Learning Engineer at GitHub!  You c
 My major professional interests and some areas I have worked on while at GitHub:
 
 - General machine learning and data science
+  - My Towards Data Science article entitled ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) (I love [Neo4j](https://neo4j.com/)), including ML on graphs
   - See my invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
-- Graph analytics (I love [Neo4j](https://neo4j.com/)), including ML on graphs
+- Graph analytics 
   - See my invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
 - Natural language processing
 - Python, SQL, Spark, R (I am just learning that one)
