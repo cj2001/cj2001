@@ -1,29 +1,28 @@
-### Welcome! 👋
+# Welcome! 👋
 
-My name is Clair Sullivan and I am a Graph Data Science Advocate at Neo4j!  You can find my [resume, speaker bio, etc. here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at Neo4j, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
+My name is Dr. Clair Sullivan and I am a Graph Data Science Advocate at Neo4j!  You can find my [resume, speaker bio, etc. here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at Neo4j, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
 
-My major professional interests and some areas I have worked on:
+## Talks, Workshops, and Presentations
 
-- General machine learning and data science
-  - See my invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
-- Graph analytics 
-  - My Towards Data Science article entitled ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) (I love [Neo4j](https://neo4j.com/)), including ML on graphs
-  - See my invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
-- Natural language processing
-- Python, SQL, Spark, R (I am just learning that one)
-- Various cloud environments, most notably AWS and Azure
+- [Going from Text to Knowledge Graphs: Putting Natural Language Processing and Graph Databases to Work](https://odsc.com/speakers/going-from-text-to-knowledge-graphs-putting-natural-language-processing-and-graph-databases-to-work/), remote orkshop at the 2021 Open Data Science Conference East
+- Invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
+- Invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
 
-I am working to add various samples of my code, so this list will grow with time.  As of right now:
+## Blog posts
 
-- A Jupyter notebook ML exploration of [Twitter bot detection](https://github.com/cj2001/twitter_bot_detection_sample/blob/main/twitter_bot_detection_demo.ipynb)
+- ["Create a graph database in Neo4j using Python"](https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4)
+- ["Importing CSV Files in Neo4j"](https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf_
+- ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b)
 
-In addition to my work at GitHub, I also have the following interests:
+## Professional interests
 
-- Internet of Things
-- Satellite imagery analysis and GIS
-- Skiing
+Graph data science and machine learning, general machine learning, natural language processing, internet of things, satellite imagery analysis.
 
-I can be reached in the following ways:
+## Personal interests
+
+Skiing, general lover of the outdoors, playing music (lately mostly guitar).
+
+## Contact information
 
 - cj2001@gmail.com
 - [My LinkedIn Profile](https://www.linkedin.com/in/clair-sullivan-09914342/)
