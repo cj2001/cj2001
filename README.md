@@ -26,5 +26,5 @@ Skiing, general lover of the outdoors, playing music (lately mostly guitar).
 
 - cj2001@gmail.com
 - [My LinkedIn Profile](https://www.linkedin.com/in/clair-sullivan-09914342/)
-- [Me on Twitter](https://twitter.com/CJLovesData): please note that this is my newly-minted professional Twitter account.  I also have a [personal account](https://twitter.com/cjisalock), but I am pretty opinionated...my opinions might not resonate with yours!
+- [Me on Twitter](https://twitter.com/CJLovesData1): @CJLovesData1 
 - My pronouns: she/her
