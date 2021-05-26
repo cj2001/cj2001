@@ -10,9 +10,11 @@ My name is Dr. Clair Sullivan and I am a Graph Data Science Advocate at Neo4j!  
 
 ## Blog posts
 
-- ["Create a graph database in Neo4j using Python"](https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4)
-- ["Importing CSV Files in Neo4j"](https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf)
-- ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b)
+- ["Getting started with graph embeddings in Neo4j"](https://towardsdatascience.com/getting-started-with-graph-embeddings-2f06030e97ae) (May, 2021)
+- ["Get going with Neo4j and Jupyter Lab through Docker"](https://dev.neo4j.com/docker_neo_jupyter) (May, 2021)
+- ["Create a graph database in Neo4j using Python"](https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4) (Feb, 2021)
+- ["Importing CSV Files in Neo4j"](https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf) (Jan, 2021)
+- ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) (Nov, 2020)
 
 ## Professional interests
 
