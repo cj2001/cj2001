@@ -1,9 +1,10 @@
 # Welcome! 👋
 
-My name is Dr. Clair Sullivan and I am a Graph Data Science Advocate at Neo4j!  You can find my [resume, speaker bio, etc. here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at Neo4j, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
+My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You can find my [resume, speaker bio, etc. here](https://github.com/cj2001/my_resume) (as one of my pinned repos). In addition to my work at Neo4j, I am also the CEO of [La Neige Analytics](https://www.laneige-analytics.com/), which is a consulting firm dedicated to helping ski areas improve their revenue (and maybe other things!) by helping analyze their existing data and creating new data collection strategies.  I am a 100% remote worker and have been for several years before COVID-19.  I love where I live in the mountains of Colorado and have no interest in moving! 
 
 ## Talks, Workshops, and Presentations
 
+- [Graph Analytics and Graph-based Machine Learning](https://youtu.be/jxyRGWO8IkU), remote presentation to AI Camp, 2021
 - [Going from Text to Knowledge Graphs: Putting Natural Language Processing and Graph Databases to Work](https://odsc.com/speakers/going-from-text-to-knowledge-graphs-putting-natural-language-processing-and-graph-databases-to-work/), remote workshop at the 2021 Open Data Science Conference East
 - Invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
 - Invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
