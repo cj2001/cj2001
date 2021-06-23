@@ -4,6 +4,7 @@ My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You ca
 
 ## Talks, Workshops, and Presentations
 
+- [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://neo4j.brand.live/c/2021nodes-training-friday), live remote workshop at Neo4j NODES 2021
 - [Graph Analytics and Graph-based Machine Learning](https://youtu.be/jxyRGWO8IkU), remote presentation to AI Camp, 2021
 - [Going from Text to Knowledge Graphs: Putting Natural Language Processing and Graph Databases to Work](https://odsc.com/speakers/going-from-text-to-knowledge-graphs-putting-natural-language-processing-and-graph-databases-to-work/), remote workshop at the 2021 Open Data Science Conference East
 - Invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
