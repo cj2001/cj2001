@@ -10,8 +10,14 @@ My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You ca
 - Invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
 - Invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
 
+## Video Series
+
+- ["Bite-Sized Neo4j for Data Scientists"](dev.neo4j.com/bite_sized_playlist)
+  - [Accompanying blog post](https://medium.com/@cj2001/bite-sized-neo4j-for-data-scientists-d604e52ab01)
+
 ## Blog posts
 
+- ["Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings"](https://dev.neo4j.com/fastrp_background)
 - ["Visualizing graph embeddings with t-SNE in Python"](https://towardsdatascience.com/visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa) (June, 2021)
 - ["Getting started with graph embeddings in Neo4j"](https://towardsdatascience.com/getting-started-with-graph-embeddings-2f06030e97ae) (May, 2021)
 - ["Get going with Neo4j and Jupyter Lab through Docker"](https://dev.neo4j.com/docker_neo_jupyter) (May, 2021)
