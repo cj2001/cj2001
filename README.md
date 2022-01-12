@@ -20,6 +20,7 @@ My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You ca
   
 ## Blog posts
 
+- ["Making FastRP embeddings work for you"](https://dev.neo4j.com/frp_tuning) (November, 2021)
 - ["Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings"](https://dev.neo4j.com/fastrp_background) (August, 2021)
 - ["Visualizing graph embeddings with t-SNE in Python"](https://towardsdatascience.com/visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa) (June, 2021)
 - ["Getting started with graph embeddings in Neo4j"](https://towardsdatascience.com/getting-started-with-graph-embeddings-2f06030e97ae) (May, 2021)
