@@ -9,6 +9,7 @@ My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You ca
 
 ## Talks, Workshops, and Presentations
 
+- [Arrays, Linked Lists, and Graphs: Why Connecting Your Data Makes Sense](https://youtu.be/gWGyvfU80kc), March, 2022, presentation to Data Umbrella
 - [Machine Learning Enabled by Network Graphs: The Power of Connecting Your Data](https://dev.neo4j.com/kubeflow_ml_on_graphs), January, 2022, Kubeflow and MLOps meetup
 - [Working with Data in a Connected World: the Power of Graph Data Science](https://www.youtube.com/watch?v=BiFKNAs4UQs), remote workshop to PyData Global, October, 2021
 - [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://dev.neo4j.com/kg_workshop), September, 2021 live rerun of NODES 2021 remote, interactive workshop with updated content
