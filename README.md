@@ -21,6 +21,7 @@ My name is Dr. Clair Sullivan and I am a Data Science Advocate at Neo4j!  You ca
   
 ## Blog posts
 
+- ["When SQL is Not the Best Answer: Identifying 'Graph-y' Problems and When Graphs Can Help"](https://opendatascience.com/when-sql-is-not-the-best-answer-identifying-graph-y-problems-and-when-graphs-can-help/) (March, 2022)
 - ["Making FastRP embeddings work for you"](https://dev.neo4j.com/frp_tuning) (November, 2021)
 - ["Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings"](https://dev.neo4j.com/fastrp_background) (August, 2021)
 - ["Visualizing graph embeddings with t-SNE in Python"](https://towardsdatascience.com/visualizing-graph-embeddings-with-t-sne-in-python-10227e7876aa) (June, 2021)
