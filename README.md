@@ -20,6 +20,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 - [Going from Text to Knowledge Graphs: Putting Natural Language Processing and Graph Databases to Work](https://odsc.com/speakers/going-from-text-to-knowledge-graphs-putting-natural-language-processing-and-graph-databases-to-work/), remote workshop at the 2021 Open Data Science Conference East
 - Invited talk on [GitHub and Deep Learning on Graphs of Code](https://youtu.be/-5lhnusF0CA) at the Data Innovation Summit, 2019 in Stockholm, Sweden
 - Invited talk [A Machine Learning Win at Github ...and So Can You!](https://youtu.be/9FeQjHzrU7M) at ML4All, 2018 in Portland, OR
+- [SnowStats:](https://snowstats.mystrikingly.com/) my capstone project for [The Data Incubator](https://www.thedataincubator.com/) looking at the change in snow coverage through data science methods for several ski areas as measured via satellite imagery, Washington, DC, 2015
   
 ## Blog posts
 
