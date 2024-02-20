@@ -36,7 +36,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 
 ## Professional interests
 
-Graph data science and machine learning, general machine learning, large language models, natural language processing, internet of things, satellite imagery analysis.
+Large language models / GenAI, graph data science and machine learning, general machine learning, natural language processing, internet of things, satellite imagery analysis.
 
 ## Personal interests
 
