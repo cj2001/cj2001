@@ -48,7 +48,7 @@ Skiing, general lover of the outdoors, playing music (lately mostly guitar).
 
 ## Contact information
 
-- cj2001@gmail.com
+- clair@clairsullivan.com
 - [My LinkedIn Profile](https://www.linkedin.com/in/clair-sullivan-09914342/)
 - [Me on Twitter](https://twitter.com/CJLovesData1): @CJLovesData1 
 - [Me on Medium](https://medium.com/@cj2001): @cj2001
