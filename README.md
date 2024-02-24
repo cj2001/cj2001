@@ -9,7 +9,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 - [Full listing of all videos](https://dev.neo4j.com/bites)
 - [Repository of all code](https://dev.neo4j.com/bites_repo)
 
-## Talks, Workshops, and Presentations
+## Recordings of Talks, Workshops, and Presentations
 
 - [Arrays, Linked Lists, and Graphs: Why Connecting Your Data Makes Sense](https://youtu.be/gWGyvfU80kc), March, 2022, presentation to Data Umbrella
 - [Machine Learning Enabled by Network Graphs: The Power of Connecting Your Data](https://dev.neo4j.com/kubeflow_ml_on_graphs), January, 2022, Kubeflow and MLOps meetup
@@ -24,6 +24,10 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
   
 ## Blog posts
 
+- ["What is a good data culture and why you need one"](https://www.linkedin.com/pulse/what-good-data-culture-why-you-need-one-dr-clair-sullivan-nwojc%3FtrackingId=u6vaxAVbOKpldxOTenY6JQ%253D%253D/?trackingId=u6vaxAVbOKpldxOTenY6JQ%3D%3D) (December, 2023)
+- ["Not getting what you expect out of your data science team?"](https://www.linkedin.com/pulse/getting-what-you-expect-out-your-data-science-team-dr-clair-sullivan-ftbkc%3FtrackingId=59ZGmJQZ0IT9u4P%252FoI68xQ%253D%253D/?trackingId=59ZGmJQZ0IT9u4P%2FoI68xQ%3D%3D) (December, 2023)
+- ["What I Learned in my First Year as a Director of Data Science"](https://medium.com/towards-data-science/what-i-learned-in-my-first-year-as-a-director-of-data-science-76b79f26b09c) (May, 2023)
+- ["What I Learned in my First 6 Months as a Director of Data Science"](https://medium.com/towards-data-science/what-i-learned-in-my-first-6-months-as-a-director-of-data-science-d9b7b98a48f7) (November, 2022) 
 - ["When SQL is Not the Best Answer: Identifying 'Graph-y' Problems and When Graphs Can Help"](https://opendatascience.com/when-sql-is-not-the-best-answer-identifying-graph-y-problems-and-when-graphs-can-help/) (March, 2022)
 - ["Making FastRP embeddings work for you"](https://dev.neo4j.com/frp_tuning) (November, 2021)
 - ["Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings"](https://dev.neo4j.com/fastrp_background) (August, 2021)
