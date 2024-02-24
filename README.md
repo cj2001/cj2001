@@ -9,8 +9,9 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 - [Full listing of all videos](https://dev.neo4j.com/bites)
 - [Repository of all code](https://dev.neo4j.com/bites_repo)
 
-## Recordings of Talks, Workshops, and Presentations
+## Talks, Workshops, and Presentations
 
+- [Data Culture: The Make-It-Or-Break-It of Successful Data Teams](https://drive.google.com/file/d/1Um0-_9_P_SushyqL8bSB29VJnlKj3F8I/view?usp=sharing), February, 2024 at the Winter Institute on Medical Physics, Breckenridge, CO (slides only)
 - [Arrays, Linked Lists, and Graphs: Why Connecting Your Data Makes Sense](https://youtu.be/gWGyvfU80kc), March, 2022, presentation to Data Umbrella
 - [Machine Learning Enabled by Network Graphs: The Power of Connecting Your Data](https://dev.neo4j.com/kubeflow_ml_on_graphs), January, 2022, Kubeflow and MLOps meetup
 - [Working with Data in a Connected World: the Power of Graph Data Science](https://www.youtube.com/watch?v=BiFKNAs4UQs), remote workshop to PyData Global, October, 2021
