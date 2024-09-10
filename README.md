@@ -27,7 +27,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
   
 ## Blog posts
 
-- ["When GraphRAG Goes Bad: A Study in Why you Cannot Afford to Ignore Entity Resolution"](https://www.linkedin.com/pulse/when-graphrag-goesbad-study-why-you-cannot-afford-ignore-sullivan-7ymnc/) (August, 2024)
+- ["When GraphRAG Goes Bad: A Study in Why you Cannot Afford to Ignore Entity Resolution"](https://senzing.com/knowledge-graphs-graph-rag/) (August, 2024)
 - ["What I Learned in my First 3 Months as a Freelance Data Scientist"](https://medium.com/towards-data-science/what-i-learned-in-my-first-3-months-as-a-freelance-data-scientist-8e3417ff8165) (March, 2024)
 - ["What is a good data culture and why you need one"](https://www.linkedin.com/pulse/what-good-data-culture-why-you-need-one-dr-clair-sullivan-nwojc%3FtrackingId=u6vaxAVbOKpldxOTenY6JQ%253D%253D/?trackingId=u6vaxAVbOKpldxOTenY6JQ%3D%3D) (December, 2023)
 - ["Not getting what you expect out of your data science team?"](https://www.linkedin.com/pulse/getting-what-you-expect-out-your-data-science-team-dr-clair-sullivan-ftbkc%3FtrackingId=59ZGmJQZ0IT9u4P%252FoI68xQ%253D%253D/?trackingId=59ZGmJQZ0IT9u4P%2FoI68xQ%3D%3D) (December, 2023)
