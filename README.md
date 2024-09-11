@@ -11,7 +11,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 
 ## Talks, Workshops, and Presentations
 
-- [Best Practices for Creating a Data Science Team](https://github.com/cj2001/data_umbrella_2024), September, 2024 remote presentation to Data Umbrella
+- [Best Practices for Creating a Data Science Team](https://www.youtube.com/watch?v=zIx6ueR2Zx4), September, 2024 remote presentation to Data Umbrella
 - [Ensuring Success for your Graph Team](https://github.com/cj2001/graph_geeks_march_2024), March, 2024 online presentation to Graph Geeks
 - [Data Culture: The Make-It-Or-Break-It of Successful Data Teams](https://drive.google.com/file/d/1Um0-_9_P_SushyqL8bSB29VJnlKj3F8I/view?usp=sharing), February, 2024 at the Winter Institute on Medical Physics, Breckenridge, CO (slides only)
 - [Arrays, Linked Lists, and Graphs: Why Connecting Your Data Makes Sense](https://youtu.be/gWGyvfU80kc), March, 2022, presentation to Data Umbrella
