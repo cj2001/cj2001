@@ -56,6 +56,6 @@ Skiing, general lover of the outdoors, playing music (lately mostly guitar).
 
 - clair@clairsullivan.com
 - [My LinkedIn Profile](https://www.linkedin.com/in/dr-clair-sullivan/)
-- [Me on Twitter](https://twitter.com/CJLovesData1): @CJLovesData1 
+- [Me on BlueSky](https://bsky.app/profile/cjlovesdata1.bsky.social): @cjlovesdata1.bsky.social
 - [Me on Medium](https://medium.com/@cj2001): @cj2001
 - My pronouns: she/her
