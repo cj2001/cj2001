@@ -18,6 +18,7 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 - [Data Culture: The Make-It-Or-Break-It of Successful Data Teams](https://drive.google.com/file/d/1Um0-_9_P_SushyqL8bSB29VJnlKj3F8I/view?usp=sharing), February, 2024 at the Winter Institute on Medical Physics, Breckenridge, CO (slides only)
 - [Arrays, Linked Lists, and Graphs: Why Connecting Your Data Makes Sense](https://youtu.be/gWGyvfU80kc), March, 2022, presentation to Data Umbrella
 - [Machine Learning Enabled by Network Graphs: The Power of Connecting Your Data](https://dev.neo4j.com/kubeflow_ml_on_graphs), January, 2022, Kubeflow and MLOps meetup
+- [Knowledge Graphs Created through Basic Machine Learning](https://youtu.be/T4DR4UNh8ag?si=oJLFvxgROX_y8ps4), Late 2021 masterclass taught at Connected Data World
 - [Working with Data in a Connected World: the Power of Graph Data Science](https://www.youtube.com/watch?v=BiFKNAs4UQs), remote workshop to PyData Global, October, 2021
 - [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://dev.neo4j.com/kg_workshop), September, 2021 live rerun of NODES 2021 remote, interactive workshop with updated content
 - [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://neo4j.brand.live/c/2021nodes-training-friday), June 2021 live remote workshop at Neo4j NODES 2021
