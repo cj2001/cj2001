@@ -4,11 +4,6 @@ My name is Dr. Clair Sullivan and I am the Founder and CEO of a freelance data s
 
 I also have returned to school at the University of Wisconsin to work on my MBA.  Degree number 5...very excited!
 
-## Bite-Sized Neo4j for Data Scientists Video Series (presently on hiatus)
-
-- [Full listing of all videos](https://dev.neo4j.com/bites)
-- [Repository of all code](https://dev.neo4j.com/bites_repo)
-
 ## Talks, Workshops, and Presentations
 
 - [Smarter RAG Starts with Cleaner Graphs: The Case for Entity Resolution](https://youtu.be/NutkMifNLeA?si=BciEq6SXiBVvK41J), June, 2025 remote presentation to Graph Geeks
@@ -47,6 +42,11 @@ I also have returned to school at the University of Wisconsin to work on my MBA.
 - ["Create a graph database in Neo4j using Python"](https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4) (Feb, 2021)
 - ["Importing CSV Files in Neo4j"](https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf) (Jan, 2021)
 - ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) (Nov, 2020)
+
+## Bite-Sized Neo4j for Data Scientists Video Series (presently on hiatus)
+
+- [Full listing of all videos](https://dev.neo4j.com/bites)
+- [Repository of all code](https://dev.neo4j.com/bites_repo)
 
 ## Professional interests
 
